@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #1e1e1e;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    gap: 100px;
+}
+#btn {
+    font-size: 1.8rem;
+    padding: 10px 25px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+#password {
+    color: white;
+    font-size: 1.8rem;
+}
+#input {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    width: 270px;
+    justify-content: center;
+    border-radius: 5px;
+}
+#genPass {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
