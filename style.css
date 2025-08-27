@@ -16,13 +16,6 @@ body {
     border-radius: 20px;
     border: none;
     cursor: pointer;
-    background: linear-gradient(45deg, cyan, blue);
-    color: pink;
-    transition: all 0.3s ease;
-}
-#btn:hover {
-    transform: scale(1.1);
-    color: purple;
 }
 #password {
     color: white;
